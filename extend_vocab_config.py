@@ -57,7 +57,7 @@ def extend_tokenizer(args):
 
     # Define the path where you've downloaded the mshojaei77 files
     # >>> CHANGE THIS PATH TO WHERE YOUR tokenizer.json IS LOCATED <<<
-    PERSIAN_TOKENIZER_SOURCE = "/path/to/mshojaei77_download_folder/tokenizer.json" 
+    PERSIAN_TOKENIZER_SOURCE = "./tokenizer.json" 
     
     # 2. LOAD PRE-TRAINED PERSIAN TOKENIZER AND EXPORT IT
     
